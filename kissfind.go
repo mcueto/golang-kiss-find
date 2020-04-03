@@ -1,10 +1,6 @@
 package kissfind
 
 import (
-	"os"
-	"fmt"
-	"log"
-	"github.com/joho/godotenv"
 )
 
 // Find takes a slice and looks for an element in it. If found it will
